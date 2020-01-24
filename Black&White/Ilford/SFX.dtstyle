@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Black&amp;White|Ilford|SFX</name>
+    <description>film emulation: Ilford SFX</description>
+  </info>
+  <style>
+    <plugin>
+      <num>0</num>
+      <module>1</module>
+      <operation>channelmixer</operation>
+      <op_params>0000000000000000000000000000803f0000000000000000f051b83e000000000000000000000000000000000000803f0000000050b89e3e00000000000000000000000000000000000000000000803fc0f5a83e</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</blendop_params>
+      <blendop_version>7</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+    </plugin>
+  </style>
+</darktable_style>
