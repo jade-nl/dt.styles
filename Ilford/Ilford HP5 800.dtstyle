@@ -1,7 +1,7 @@
 <darktable_style version="1.0">
 <info>
   <name>Ilford|HPS 800</name>
-  <description>fitted LUT style from GMIC film emulation style &#8220;Ilford HPS 800&#8221;</description>
+  <description>Ilford HPS 800</description>
 </info>
 <style>
   <plugin>
