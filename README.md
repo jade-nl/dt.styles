@@ -23,3 +23,4 @@ The naming and descriptions are now uniform and the xml format for all the files
 
 * *dt.all.zip*
 
+Click on the *releases* tab for the zip files.
