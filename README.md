@@ -2,7 +2,9 @@
 
 A large collection of styles for darktable. Set up in a hierarchical way.
 
-The following individual downloads are available:
+The naming and descriptions are now uniform and the xml format for all the files have been checked and fixed if needed.
+
+### The following individual downloads are available:
 
 * dt.agfa.zip
 * dt.fuji.zip
