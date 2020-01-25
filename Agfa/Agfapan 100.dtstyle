@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Agfa|Agfapan 100</name>
+    <description>Agfa (Black&amp;White|): Agfapan 100</description>
+  </info>
+  <style>
+    <plugin>
+      <num>0</num>
+      <module>1</module>
+      <operation>channelmixer</operation>
+      <op_params>0000000000000000000000000000803f0000000000000000400a573e000000000000000000000000000000000000803f00000000d0cccc3e00000000000000000000000000000000000000000000803f10aec73e</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</blendop_params>
+      <blendop_version>7</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+    </plugin>
+  </style>
+</darktable_style>

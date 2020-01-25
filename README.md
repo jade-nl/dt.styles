@@ -2,7 +2,22 @@
 
 A large collection of styles for darktable. Set up in a hierarchical way.
 
+The following individual downloads are available:
 
-Added a Black & White section. There are no new files in this section, the relevant B&W files are taken form the brand related sections. They are renamed (stripped the brand name) and the xml layout has been checked and fixed where needed. 
+* dt.agfa.zip
+* dt.fuji.zip
+* dt.ilford.zip
+* dt.kodak.zip
+* dt.polaroid.zip
+* dt.rollei.zip
+* *dt.all.brands.zip*
 
-Next step: A dedicated Colour section
+* dt.colour.zip
+* dt.black.and.white.zip
+* *dt.bw.and.colour.zip*
+
+* dt.creative.zip
+* dt.miscellaneous.zip
+
+* *dt.all.zip*
+

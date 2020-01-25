@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Black&amp;White|Miscellaneous|Normal Contrast</name>
+    <description>Miscellaneous: Normal Contrast</description>
+  </info>
+  <style>
+    <plugin>
+      <num>0</num>
+      <module>1</module>
+      <operation>channelmixer</operation>
+      <op_params>0000000000000000000000000000803f0000000000000000f828dc3e000000000000000000000000000000000000803f00000000c0f5a83e00000000000000000000000000000000000000000000803f9899993e</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</blendop_params>
+      <blendop_version>7</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+    </plugin>
+  </style>
+</darktable_style>

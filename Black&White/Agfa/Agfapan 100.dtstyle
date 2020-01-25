@@ -2,7 +2,7 @@
 <darktable_style version="1.0">
   <info>
     <name>Black&amp;White|Agfa|Agfapan 100</name>
-    <description>film emulation: Agfa Agfapan 100</description>
+    <description>Agfa (Black&amp;White|): Agfapan 100</description>
   </info>
   <style>
     <plugin>
