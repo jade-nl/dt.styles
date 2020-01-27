@@ -18,7 +18,7 @@ darkroom view:
 ### The following individual downloads are available:
 
 <dl>
-  <dt>*Brands*</dt>
+  <dt>Brands</dt>
   <dd>dt.agfa.zip</dd>
   <dd>dt.fuji.zip</dd>
   <dd>dt.ilford.zip</dd>
@@ -26,15 +26,15 @@ darkroom view:
   <dd>dt.polaroid.zip</dd>
   <dd>dt.rollei.zip</dd>
 
-  <dt>*Colour*</dt>
+  <dt>Colour</dt>
   <dd>dt.colour.zip</dd>
   <dd>dt.black.and.white.zip</dd>
 
-  <dt>*Artistic*</dt>
+  <dt>Artistic</dt>
   <dd>dt.creative.zip</dd>
   <dd>dt.miscellaneous.zip</dd>
 
-  <dt>*Combinations*</dt>
+  <dt>Combinations</dt>
   <dd>dt.all.zip</dd>
   <dd>dt.all.brands.zip</dd>
   <dd>dt.all.colour.zip</dd>
