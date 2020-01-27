@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Kodak|Colour|Ektachrome 100 GX</name>
+    <description>Kodak (Colour): Ektachrome 100 GX</description>
+  </info>
+  <style>
+    <plugin>
+      <num>6</num>
+      <module>4</module>
+      <operation>tonecurve</operation>
+      <op_params>gz03eJxjYGBgWDbbxeZ5SrJt1jRbW/2IeLtNiyPttlpI21vtkrO/cz7Q3ndGhD0DQwMUDwzgjE63W3ui1e6Y3zk7iyX37VrNPtjtuvzRbm/mXzsP1/92W6Yw238QZLSXyeS2L5fgs+9WFre/zy1p/+yAmb3SImuau192S6edputMu6Dfr+y+Ln1md/zZP7tQz/92LndZ7blEmO1VUgTtHb/z2QfYKNkf+ydrn3LG2P5hiqZ96UN3e5kYN5q5jw2IuaCYCQnDACMQAwAzzkeL</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRxQcA5qIZBA==</blendop_params>
+      <blendop_version>8</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+    </plugin>
+  </style>
+</darktable_style>

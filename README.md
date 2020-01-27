@@ -1,26 +1,45 @@
 # dt.styles
 
-A large collection of styles for darktable. Set up in a hierarchical way.
+An assorted collection of styles for darktable. Set up in a hierarchical way. Depending on the view you are in the styles are represented in a double or a single expandable layer:
 
-The naming and descriptions are now uniform and the xml format for all the files have been checked and fixed if needed.
+lighttable view:
+```
+     Colour
+         Agfa
+             Vista 200
+```
+
+darkroom view:
+```
+     Colour
+         Agfa|Vista 200
+```
 
 ### The following individual downloads are available:
 
-* dt.agfa.zip
-* dt.fuji.zip
-* dt.ilford.zip
-* dt.kodak.zip
-* dt.polaroid.zip
-* dt.rollei.zip
-* *dt.all.brands.zip*
+<dl>
+  <dt>*Brands*</dt>
+  <dd>dt.agfa.zip</dd>
+  <dd>dt.fuji.zip</dd>
+  <dd>dt.ilford.zip</dd>
+  <dd>dt.kodak.zip</dd>
+  <dd>dt.polaroid.zip</dd>
+  <dd>dt.rollei.zip</dd>
 
-* dt.colour.zip
-* dt.black.and.white.zip
-* *dt.bw.and.colour.zip*
+  <dt>*Colour*</dt>
+  <dd>dt.colour.zip</dd>
+  <dd>dt.black.and.white.zip</dd>
 
-* dt.creative.zip
-* dt.miscellaneous.zip
+  <dt>*Artistic*</dt>
+  <dd>dt.creative.zip</dd>
+  <dd>dt.miscellaneous.zip</dd>
 
-* *dt.all.zip*
+  <dt>*Combinations*</dt>
+  <dd>dt.all.zip</dd>
+  <dd>dt.all.brands.zip</dd>
+  <dd>dt.all.colour.zip</dd>
+  <dd>dt.all.artistic.zip</dd>
+</dl>
 
-Click on the *releases* tab for the zip files.
+Click [here](https://github.com/jade-nl/dt.styles/releases) or on the *releases* tab for access to the downloadable zip files.
+

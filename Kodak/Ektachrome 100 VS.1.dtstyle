@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Kodak|Colour|Ektachrome 100 VS</name>
+    <description>Kodak (Colour): Ektachrome 100 VS</description>
+  </info>
+  <style>
+    <plugin>
+      <num>1</num>
+      <module>4</module>
+      <operation>tonecurve</operation>
+      <op_params>gz03eJxjYIAAq7iNthMt423ffuu3446vtgsR5bBfu47Z/uTSUHvDxED7S+F19rvTSuwZBgjUmHXZKZ91twtfct6usPae3fGA53bSHZ/s9mb+tYs68d9uyxRmexEJJvvDiZz2AR589o3h6vZScQZA9zZAMW2B7JZOO03XmXZBv1/ZBXM9sjv+7J9dqOd/O5e7rPZBCqz2OX957Pn7eOy3f1a03yOgYL/1kIZ9p6WevcZVc/vYVc40cycbEHMCMRcQMyFhGGAEYgCyU0LM</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRxQcA5qIZBA==</blendop_params>
+      <blendop_version>8</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+    </plugin>
+  </style>
+</darktable_style>
