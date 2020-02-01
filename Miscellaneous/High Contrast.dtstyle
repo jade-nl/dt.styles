@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Black&amp;White|Ilford|SFX</name>
-    <description>Ilford (Black&amp;White): SFX</description>
+    <name>Black&amp;White|Miscellaneous|High Contrast</name>
+    <description>Miscellaneous: High Contrast</description>
   </info>
   <style>
     <plugin>
       <num>0</num>
       <module>1</module>
       <operation>channelmixer</operation>
-      <op_params>0000000000000000000000000000803f0000000000000000f051b83e000000000000000000000000000000000000803f0000000050b89e3e00000000000000000000000000000000000000000000803fc0f5a83e</op_params>
+      <op_params>0000000000000000000000000000803f0000000000000000d0cccc3e000000000000000000000000000000000000803f000000007814ae3e00000000000000000000000000000000000000000000803f9899193f</op_params>
       <enabled>1</enabled>
       <blendop_params>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</blendop_params>
       <blendop_version>7</blendop_version>
