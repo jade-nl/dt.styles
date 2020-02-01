@@ -15,6 +15,13 @@ darkroom view:
          Agfa|Vista 200
 ```
 
+### Small darktable bug:
+
+While testing I noticed a bug in the way darktable displays style information in darkroom view.
+
+Not long after creating issue [#4196](https://github.com/darktable-org/darktable/issues/4196) this was fixed. This fix is already available in **darktable 3.1.0+446** but those using stable have to wait until 3.0.1 (late February 2020).
+
+
 ### The following individual downloads are available:
 
 <dl>
