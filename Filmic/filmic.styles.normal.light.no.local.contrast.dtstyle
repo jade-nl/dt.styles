@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Filmic|Normal light, no local contrast</name>
+    <description>well lit, normal DR, like studio images</description>
+  </info>
+  <style>
+    <plugin>
+      <num>11</num>
+      <module>6</module>
+      <operation>colorin</operation>
+      <op_params>gz42eJzjZhgFowACGIGYZaAdMQoGHAAAOwgAEQ==</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name> </multi_name>
+      <iop_order>28,280000</iop_order>
+    </plugin>
+    <plugin>
+      <num>12</num>
+      <module>1</module>
+      <operation>filmicrgb</operation>
+      <op_params>0ad74b41550922c17b145e40000000009a999341000000000000c842338fb7400000f04148e1ba3f0000a040c8cc444100000000</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>45,000000</iop_order>
+    </plugin>
+    <plugin>
+      <num>13</num>
+      <module>5</module>
+      <operation>exposure</operation>
+      <op_params>00000000000000009999193f00004842000080c0</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>21,000000</iop_order>
+    </plugin>
+    <plugin>
+      <num>15</num>
+      <module>3</module>
+      <operation>colorbalance</operation>
+      <op_params>010000000000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f00009041cdcc8c3f</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>40,000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>
