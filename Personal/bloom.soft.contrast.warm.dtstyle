@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|bloom|soft contrast warm<</name>
+    <description>Soften contrast (Warm)<</description>
+  </info>
+  <style>
+    <plugin>
+      <num>14</num>
+      <module>1</module>
+      <operation>bloom</operation>
+      <op_params>0000aa420000a0400000aa42</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjZGBgYGEAgWlODGiAEV0AJ2iwh+CRyscOAKvHGL8=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>60.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>

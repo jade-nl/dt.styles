@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|local contrast|clarity (masked)<</name>
+    <description>Enhance clarity, masked nased<</description>
+  </info>
+  <style>
+    <plugin>
+      <num>12</num>
+      <module>3</module>
+      <operation>bilat</operation>
+      <op_params>010000006666663f0000803f0000403f0000803e</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz06eJxjZWBgkGAAgRNODFDACOUzQvkXzpzZO2Om5D4GNDBzpqTdmTM+dmlpavbGxsb2CJkGewgeKXzsAABKHiN3</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>53.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>

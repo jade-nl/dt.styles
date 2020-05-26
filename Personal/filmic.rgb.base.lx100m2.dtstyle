@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|filmic rgb|LX100M2 Baseline<</name>
+    <description>Panasonic LX100M2 Baseline<</description>
+  </info>
+  <style>
+    <plugin>
+      <num>8</num>
+      <module>1</module>
+      <operation>filmicrgb</operation>
+      <op_params>295c9341000010c100007040000000009a999341000000000000c84273469b4000005c429a99993f0000a0410400204102000000</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>45.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>

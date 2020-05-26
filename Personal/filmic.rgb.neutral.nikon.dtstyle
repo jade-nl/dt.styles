@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|filmic rgb|Neutral Nikon<</name>
+    <description>personal|Nikon neutral startingpoint (15.5EV)<</description>
+  </info>
+  <style>
+    <plugin>
+      <num>9</num>
+      <module>1</module>
+      <operation>filmicrgb</operation>
+      <op_params>295c9341cdcc50c145f31c40000000009a999341000000000000c84292081d410000c8420000803f000000000000000001000000</op_params>
+      <enabled>0</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>45.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>

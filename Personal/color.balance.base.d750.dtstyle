@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|color balance|base d750<</name>
+    <description>Base settings for Nikon D750<</description>
+  </info>
+  <style>
+    <plugin>
+      <num>9</num>
+      <module>3</module>
+      <operation>colorbalance</operation>
+      <op_params>010000000000803fb10f803f3adf7f3f6310803f0000803f3765803f65aa803f36ab7e3f0000803f13ea7d3f3c017d3f627f813f0000803f3333733f00009041cdcc8c3f</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>40.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>
