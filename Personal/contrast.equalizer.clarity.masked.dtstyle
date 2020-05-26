@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|contrast equalizer|clarity (masked)<</name>
-    <description>Enhance clarity (Masked)<</description>
+    <name>Personal|contrast equalizer|clarity (masked)</name>
+    <description>Enhance clarity (Masked)</description>
   </info>
   <style>
     <plugin>

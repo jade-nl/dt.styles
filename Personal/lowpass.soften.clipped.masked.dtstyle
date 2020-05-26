@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|lowpass|soften clipped (masked)<</name>
-    <description>Soften clipped highlights<</description>
+    <name>Personal|lowpass|soften clipped (masked)</name>
+    <description>Soften clipped highlights</description>
   </info>
   <style>
     <plugin>

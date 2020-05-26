@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|Baseline modules||D750<</name>
+    <name>Personal|Baseline modules||D750</name>
     <description>D750 specific baseline: demosaic, lens correction, exposure, color balance, filmic rgb</description>
   </info>
   <style>

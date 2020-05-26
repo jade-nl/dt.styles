@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|bloom|soft contrast warm<</name>
-    <description>Soften contrast (Warm)<</description>
+    <name>Personal|bloom|soft contrast warm</name>
+    <description>Soften contrast (Warm)</description>
   </info>
   <style>
     <plugin>

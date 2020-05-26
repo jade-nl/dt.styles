@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|color balance|base lx100m2<</name>
-    <description>Base settings for Panasonic LX100M2<</description>
+    <name>Personal|color balance|base lx100m2</name>
+    <description>Base settings for Panasonic LX100M2</description>
   </info>
   <style>
     <plugin>

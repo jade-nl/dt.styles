@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|filmic rgb|D750 baseline<</name>
-    <description>Nikon D750 baseline<</description>
+    <name>Personal|filmic rgb|D750 baseline</name>
+    <description>Nikon D750 baseline</description>
   </info>
   <style>
     <plugin>

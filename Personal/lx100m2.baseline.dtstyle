@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|Baseline modules||LX100M2<</name>
-    <description>LX100M2 specific baseline: demosaic, lens correction, exposure, color balance, filmic rgb<</description>
+    <name>Personal|Baseline modules||LX100M2</name>
+    <description>LX100M2 specific baseline: demosaic, lens correction, exposure, color balance, filmic rgb</description>
   </info>
   <style>
     <plugin>

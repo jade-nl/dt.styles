@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|local contrast|clarity (masked)<</name>
-    <description>Enhance clarity, masked nased<</description>
+    <name>Personal|local contrast|clarity (masked)</name>
+    <description>Enhance clarity, masked nased</description>
   </info>
   <style>
     <plugin>

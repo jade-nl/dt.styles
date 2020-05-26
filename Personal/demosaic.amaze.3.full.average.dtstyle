@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|demosaic|amaze (3x and full average)<</name>
-    <description>Standard demosaic settings<</description>
+    <name>Personal|demosaic|amaze (3x and full average)</name>
+    <description>Standard demosaic settings</description>
   </info>
   <style>
     <plugin>

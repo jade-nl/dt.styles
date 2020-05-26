@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|color balance|base general<</name>
-    <description>General base settings<</description>
+    <name>Personal|color balance|base general</name>
+    <description>General base settings</description>
   </info>
   <style>
     <plugin>
