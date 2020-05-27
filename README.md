@@ -50,3 +50,4 @@ Not long after creating issue [#4196](https://github.com/darktable-org/darktable
 
 Click [here](https://github.com/jade-nl/dt.styles/releases) or on the *releases* tab for access to the downloadable zip files.
 
+The "styles" in the Personal section are basically preset back-ups. 
