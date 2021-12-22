@@ -44,3 +44,13 @@ darkroom view:
 Click [here](https://github.com/jade-nl/dt.styles/releases) or on the *releases* tab for access to the downloadable zip files.
 
 The "styles" in the Personal section are basically preset back-ups. 
+
+### Just a heads up about these styles
+
+These styles are rather old and as such come with possible side effects that you might not like or at least need to be aware of.
+
+Some of these styles use modules that are outside of darktable's default scene-referred workflow or uses deprecated modules. 2 examples are the use of the *tonecurve* module (out of scope for scene referred) and the use of the *channelmixer*, deprecated in favour of the *color calibration* module.
+
+This does not mean that these styles cannot be used any longer, they certainly can, but you do need to be aware that this happens.
+
+These are styles and not LUTS, so when a style is applied the modules are activated and can be dealt with if needed.
