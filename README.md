@@ -41,9 +41,7 @@ darkroom view:
   <dd>dt.all.artistic.zip</dd>
 </dl>
 
-Click [here](https://github.com/jade-nl/dt.styles/releases) or on the *releases* tab for access to the downloadable zip files.
-
-The "styles" in the Personal section are basically preset back-ups. 
+Click [here](https://github.com/jade-nl/dt.styles/releases) or on the *releases* tab for access to the downloadable zip files (updated on 2022-01-14).
 
 ### Just a heads up about these styles
 
