@@ -1,3 +1,15 @@
+
+
+### !!! This repository has been moved to Codeberg !!! ###
+
+**Link to new location: https://codeberg.org/Jade_NL/dt.styles**
+
+**This repository will be *completely removed in the near future*.**
+
+### !!! This repository has been moved to Codeberg !!! ###
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 # dt.styles
 
 An assorted collection of styles for darktable. Set up in a hierarchical way. Depending on the view you are in the styles are represented in a double or a single expandable layer:
